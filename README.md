@@ -10,6 +10,7 @@
 - [GitHub リポジトリ](https://github.com/claudycat-ai/Sumire)
 - [紹介記事（note）](https://note.com/claudycat/n/n157df9665e43)
 - [ダウンロード（BOOTH）](https://claudycat.booth.pm/items/9158205)
+- [技術記事（Zenn）: デスクトップアプリから llama-server を起動して使うときに決めたこと](https://zenn.dev/claudycat/articles/7de3ce3fe21452)
 
 ---
 
