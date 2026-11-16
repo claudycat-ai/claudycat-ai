@@ -9,6 +9,7 @@
 
 - [GitHub リポジトリ](https://github.com/claudycat-ai/Sumire)
 - [紹介記事（note）](https://note.com/claudycat/n/n157df9665e43)
+- [設定の書き方の記事（note・有料）: ローカル LLM に小説の続きを書かせる:読み比べて分かった、効いた指示と効かなかった指示](https://note.com/claudycat/n/n8d412efa3489)
 - [ダウンロード（BOOTH）](https://claudycat.booth.pm/items/9158205)
 - [技術記事（Zenn）: デスクトップアプリから llama-server を起動して使うときに決めたこと](https://zenn.dev/claudycat/articles/7de3ce3fe21452)
 
