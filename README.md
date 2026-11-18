@@ -14,6 +14,7 @@
 - [技術記事（Zenn）: デスクトップアプリから llama-server を起動して使うときに決めたこと](https://zenn.dev/claudycat/articles/7de3ce3fe21452)
 - [技術記事（Zenn）: ストリーミング中の応答から、推論モデルの思考ブロックを取り分ける](https://zenn.dev/claudycat/articles/0d468dd38c8231)
 - [技術記事（Zenn）: Gemma 4 に /v1/completions で文章の続きを書かせるプロンプトの形](https://zenn.dev/claudycat/articles/4016ffb2735fc3)
+- [技術記事（Zenn）: Rust の keyring 3 は、feature を付けないと黙って何も保存しない](https://zenn.dev/claudycat/articles/f5d4df964548e8)
 
 ---
 
